@@ -4,13 +4,14 @@ public class Main {
     public static void main(String[] args) {
 
         // This is a comment
-        /* This is a multiline
+        /* This is
+        a multiline
         comment */
 
         System.out.println("I like pizza!");
         System.out.println("I like pizza too!");
-        System.out.print("I like pizza too!\n");
-        System.out.println("I like pizza too! cm");
+        System.out.print("I like pizza too!\n"); // \n is a new line
+        System.out.println("I like pizza too!");
 
         int myNum = 5;
         System.out.println(myNum);
@@ -40,6 +41,7 @@ public class Main {
 
         System.out.println("Are you a Student? (true/false): ");
         boolean isStudent = scanner.nextBoolean();
+        scanner.nextLine(); // Consume the newline character
 
         System.out.println("Your name is: " + name + " and your age is: " + age2 + " and your height is: " + height);
 
@@ -50,6 +52,7 @@ public class Main {
         }
 
         // Mad Libs Game
+        System.out.println("Let's play a Mad Libs game!");
 
         String adjective1;
         String noun1;
@@ -57,7 +60,7 @@ public class Main {
         String verb1;
         String adjective3;
 
-        System.out.print("Enter an adjective (description): ");
+        System.out.println("Enter an adjective (description): ");
         adjective1 = scanner.nextLine();
         System.out.println("Enter a noun (animal or person): ");
         noun1 = scanner.nextLine();
@@ -68,7 +71,7 @@ public class Main {
         System.out.println("Enter an adjective (description): ");
         adjective3 = scanner.nextLine();
 
-        System.out.println("Today I went to the" + adjective1 + " zoo.");
+        System.out.println("Today I went to the " + adjective1 + " zoo.");
         System.out.println("In an exhibit, I saw a " + noun1 + ".");
         System.out.println(noun1 +" was " + adjective2 + " and " + verb1 + "!");
         System.out.println("I was a " + adjective3 + "!");
