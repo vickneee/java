@@ -1,6 +1,6 @@
 # javaTest
 
-Java test.
+Java test 2.
 
 ## Tools used
 
