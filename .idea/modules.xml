@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/if-else/if-else.iml" filepath="$PROJECT_DIR$/if-else/if-else.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/intro.iml" filepath="$PROJECT_DIR$/intro/intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaTest.iml" filepath="$PROJECT_DIR$/javaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch/switch.iml" filepath="$PROJECT_DIR$/switch/switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-input/user-input.iml" filepath="$PROJECT_DIR$/user-input/user-input.iml" />
     </modules>
   </component>
 </project>
