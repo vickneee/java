@@ -30,7 +30,6 @@ public class MadLibsGame {
         System.out.println(noun1 +" was " + adjective2 + " and " + verb1 + "!");
         System.out.println("I was a " + adjective3 + "!");
 
-        // Close the scanner
         scanner.close();
     }
 }

@@ -41,7 +41,7 @@ public class Main {
 
         System.out.println("Are you a Student? (true/false): ");
         boolean isStudent = scanner.nextBoolean();
-        scanner.nextLine(); // Consume the newline character
+        scanner.nextLine(); // Consume the newline answer
 
         System.out.println("Your name is: " + name + " and your age is: " + age2 + " and your height is: " + height);
 
@@ -51,7 +51,6 @@ public class Main {
             System.out.println("You are NOT a student.");
         }
 
-        // Close the scanner
         scanner.close();
     }
 }
