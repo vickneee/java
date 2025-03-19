@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PositiveNumber {
+public class IfElseIfElse {
 
     public static void main(String[] args) {
 
