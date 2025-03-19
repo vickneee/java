@@ -1,6 +1,6 @@
-# javaTest
+# java
 
-Java test.
+Java tasks.
 
 ## Tools used
 
