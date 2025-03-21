@@ -12,15 +12,12 @@ public class EnhancedSwitch {
         String day = scanner.nextLine();
 
         switch (day) {
-            case "Monday" -> System.out.println("Monday is 1st day of the week");
-            case "Tuesday" -> System.out.println("Tuesday is 2nd day of the week");
-            case "Wednesday" -> System.out.println("Wednesday is 3rd day of the week");
-            case "Thursday" -> System.out.println("Thursday is 4th day of the week");
-            case "Friday" -> System.out.println("Friday is 5th day of the week");
-            case "Saturday" -> System.out.println("Saturday is 6th day of the week");
-            case "Sunday" -> System.out.println("Sunday is 7th day of the week");
+            case "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ->
+                    System.out.println("It is the weekday");
+            case "Saturday", "Sunday" -> System.out.println("It is the weekend");
             default -> System.out.println("Invalid day");
         }
 
+        scanner.close();
     }
 }
