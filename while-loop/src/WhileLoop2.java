@@ -9,6 +9,7 @@ public class WhileLoop2 {
         String response = "";
 
         while (!response.equals("Q")) {
+            System.out.println("This is a while loop program.");
             System.out.print("You want to quit? (Q to quit): ");
             response = reader.next().toUpperCase();
         }
