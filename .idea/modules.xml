@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/switch-enhanced/switch-enhanced.iml" filepath="$PROJECT_DIR$/switch-enhanced/switch-enhanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/ternary-operator/ternary-operator.iml" filepath="$PROJECT_DIR$/ternary-operator/ternary-operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-input/user-input.iml" filepath="$PROJECT_DIR$/user-input/user-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while-loop/while-loop.iml" filepath="$PROJECT_DIR$/while-loop/while-loop.iml" />
     </modules>
   </component>
 </project>
