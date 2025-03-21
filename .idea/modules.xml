@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/ternary-operator/ternary-operator.iml" filepath="$PROJECT_DIR$/ternary-operator/ternary-operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-input/user-input.iml" filepath="$PROJECT_DIR$/user-input/user-input.iml" />
       <module fileurl="file://$PROJECT_DIR$/while-loop/while-loop.iml" filepath="$PROJECT_DIR$/while-loop/while-loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while-loop-do-while/while-loop-do-while.iml" filepath="$PROJECT_DIR$/while-loop-do-while/while-loop-do-while.iml" />
     </modules>
   </component>
 </project>
