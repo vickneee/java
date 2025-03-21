@@ -21,7 +21,7 @@ public class LogicalOperators {
         } else if (temp < 15 && !isSunny) {
             System.out.println("It is cold and not sunny");
         } else {
-            System.out.println("The weather is not warm and sunny");
+            System.out.println("The weather is bad");
         }
 
         scanner.close();
