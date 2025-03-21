@@ -13,8 +13,9 @@ public class EnhancedSwitch {
 
         switch (day) {
             case "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ->
-                    System.out.println("It is the weekday");
-            case "Saturday", "Sunday" -> System.out.println("It is the weekend");
+                    System.out.println("It is a weekday");
+            case "Saturday", "Sunday" ->
+                    System.out.println("It is the weekend");
             default -> System.out.println("Invalid day");
         }
 
