@@ -50,7 +50,7 @@ public class SearchFromArray {
         for (int i = 0; i < fruits.length; i++) {
             if (fruitToSearch.equals(fruits[i])) {
                 isFound = true;
-                // System.out.println("Found " + fruitToSearch + " at index " + i);
+                System.out.println("Found " + fruitToSearch + " at index " + i);
                 break;
             }
         }
