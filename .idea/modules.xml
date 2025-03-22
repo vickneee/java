@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/nested-loops/nested-loops.iml" filepath="$PROJECT_DIR$/nested-loops/nested-loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/printf/printf.iml" filepath="$PROJECT_DIR$/printf/printf.iml" />
       <module fileurl="file://$PROJECT_DIR$/random/random.iml" filepath="$PROJECT_DIR$/random/random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scope-variable/scope-variable.iml" filepath="$PROJECT_DIR$/scope-variable/scope-variable.iml" />
       <module fileurl="file://$PROJECT_DIR$/switch/switch.iml" filepath="$PROJECT_DIR$/switch/switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/switch-enhanced/switch-enhanced.iml" filepath="$PROJECT_DIR$/switch-enhanced/switch-enhanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/ternary-operator/ternary-operator.iml" filepath="$PROJECT_DIR$/ternary-operator/ternary-operator.iml" />
