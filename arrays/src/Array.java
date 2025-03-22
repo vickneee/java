@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Array {
 
     public static void main(String[] args) {
@@ -11,6 +13,8 @@ public class Array {
 
         int numOfFruits = fruits.length;
         System.out.println(numOfFruits);
+        Arrays.sort(fruits); // Sorts the array in ascending order
+        System.out.println(Arrays.toString(fruits)); // [apple, banana, kiwi, orange]
 
         // For loop
         // for (int i = 0; i < fruits.length; i++) {
