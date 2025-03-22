@@ -8,12 +8,16 @@ public class NestedLoops {
                 int product = i * j;
                 System.out.print(i + " * " + j + " = " + product + " ");
 
-                if (product % 2 == 0) {
-                    System.out.println("Even!");
-                } else {
-                    System.out.println("Odd!");
-                }
+                product(product);
             }
+        }
+    }
+
+    private static void product(int product) {
+        if (product % 2 == 0) {
+            System.out.println("Even!");
+        } else {
+            System.out.println("Odd!");
         }
     }
 }
