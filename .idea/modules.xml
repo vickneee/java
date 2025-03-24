@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrays/ArrayOfObjects/ArrayOfObjects.iml" filepath="$PROJECT_DIR$/arrays/ArrayOfObjects/ArrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
