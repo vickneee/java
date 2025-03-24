@@ -1,6 +1,6 @@
 # java
 
-Java tasks.
+Java Basics.
 
 ## Tools used
 
