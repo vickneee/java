@@ -3,8 +3,8 @@ public class Main {
     public static void main(String[] args) {
 
         // Static = keyword that makes the variable common to all objects
-        // Static = variable is shared with all objects
-        // Static = can be accessed directly by the class name
+        //          variable is shared with all objects
+        //          can be accessed directly by the class name
 
         Friend friend = new Friend("John");
         Friend friend1 = new Friend("Johanna");
