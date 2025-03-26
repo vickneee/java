@@ -1,11 +1,19 @@
 public class Car {
 
-    String make = "Ford";
-    String model = "Mustang";
-    int year = 2020;
-    double price = 50000.00;
-    boolean isRunning = false;
+    String make;
+    String model;
+    int year;
+    double price;
+    boolean isRunning;
 
+    // Constructor
+    public Car(String make, String model, int year, double price) {
+        this.make = make;
+        this.model = model;
+        this.year = year;
+        this.price = price;
+        this.isRunning = false;
+    }
 
     void start() {
         isRunning = true;
