@@ -7,7 +7,7 @@ public class Car {
 //    double price;
 
     // Variables after encapsulation
-    private String model;
+    private final String model; // final = can't be changed
     private String color;
     private int year;
     private double price;
