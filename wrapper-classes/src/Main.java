@@ -42,5 +42,9 @@ public class Main {
 
         System.out.println(x);
 
+        char letter = 'a';
+
+        System.out.println(Character.isLetter(letter)); // true
+
     }
 }
