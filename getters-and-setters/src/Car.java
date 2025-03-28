@@ -35,7 +35,7 @@ public class Car {
 
     public String getPrice() {
         if (price < 0.0) {
-            return "Priceless";
+            return "Invalid price";
         }
         return "€" + price;
     }

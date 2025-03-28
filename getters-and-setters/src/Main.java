@@ -27,7 +27,7 @@ public class Main {
         // After using getters and setters
         car.setColor("Red");
         car.setYear(2021);
-        car.setPrice(25000.00);
+        car.setPrice(-25000.00);
 
         System.out.println("Car model: " + car.getModel());
         System.out.println("Car color: " + car.getColor());
