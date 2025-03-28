@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/arrays/ArrayOfObjects/ArrayOfObjects.iml" filepath="$PROJECT_DIR$/arrays/ArrayOfObjects/ArrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/aggregation/aggregation.iml" filepath="$PROJECT_DIR$/aggregation/aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arithmetic/arithmetic.iml" filepath="$PROJECT_DIR$/arithmetic/arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/association/association.iml" filepath="$PROJECT_DIR$/association/association.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
@@ -35,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/toStringMethod/toStringMethod.iml" filepath="$PROJECT_DIR$/toStringMethod/toStringMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-input/user-input.iml" filepath="$PROJECT_DIR$/user-input/user-input.iml" />
       <module fileurl="file://$PROJECT_DIR$/varargs/varargs.iml" filepath="$PROJECT_DIR$/varargs/varargs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/while-loop/while-loop.iml" filepath="$PROJECT_DIR$/while-loop/while-loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/while-loop-do-while/while-loop-do-while.iml" filepath="$PROJECT_DIR$/while-loop-do-while/while-loop-do-while.iml" />
     </modules>
