@@ -1,5 +1,6 @@
 public class Employee extends Person {
 
+    // Variables
     double salary;
 
     // Constructor
@@ -8,6 +9,7 @@ public class Employee extends Person {
         this.salary = salary;
     }
 
+    // Method (function)
     void showSalary() {
         System.out.println(this.first + " " + this.last + " salary is " + this.salary);
     }

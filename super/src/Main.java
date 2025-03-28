@@ -18,7 +18,7 @@ public class Main {
 
         // Call the method of the subclass
         student.showName();
-        student.showGPA();
+        student.showGrade();
 
         employee.showName();
         employee.showSalary();

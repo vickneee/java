@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/arrays/ArrayOfObjects/ArrayOfObjects.iml" filepath="$PROJECT_DIR$/arrays/ArrayOfObjects/ArrayOfObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/aggregation/aggregation.iml" filepath="$PROJECT_DIR$/aggregation/aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/arithmetic/arithmetic.iml" filepath="$PROJECT_DIR$/arithmetic/arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array-of-objects/array-of-objects.iml" filepath="$PROJECT_DIR$/array-of-objects/array-of-objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/association/association.iml" filepath="$PROJECT_DIR$/association/association.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />

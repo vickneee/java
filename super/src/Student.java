@@ -1,15 +1,17 @@
 public class Student extends Person {
 
-    double gpa;
+    // Variables
+    double grade;
 
     // Constructor
-    Student(String first, String last, int age, double gpa) {
+    Student(String first, String last, int age, double grade) {
         super(first, last, age);
-        this.gpa = gpa;
+        this.grade = grade;
     }
 
-    void showGPA() {
-        System.out.println(this.first + " GPA is " + this.gpa);
+    // Method (function)
+    void showGrade() {
+        System.out.println(this.first + " " + this.last + " grade is " + this.grade);
     }
 
 }
