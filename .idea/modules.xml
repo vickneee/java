@@ -41,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/variable-scope/variable-scope.iml" filepath="$PROJECT_DIR$/variable-scope/variable-scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/while-loops/while-loops.iml" filepath="$PROJECT_DIR$/while-loops/while-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapper-classes/wrapper-classes.iml" filepath="$PROJECT_DIR$/wrapper-classes/wrapper-classes.iml" />
     </modules>
   </component>
 </project>
