@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/object-oriented-programming/object-oriented-programming.iml" filepath="$PROJECT_DIR$/object-oriented-programming/object-oriented-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/overloaded-constructors/overloaded-constructors.iml" filepath="$PROJECT_DIR$/overloaded-constructors/overloaded-constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/overloaded-methods/overloaded-methods.iml" filepath="$PROJECT_DIR$/overloaded-methods/overloaded-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/printf/printf.iml" filepath="$PROJECT_DIR$/printf/printf.iml" />
       <module fileurl="file://$PROJECT_DIR$/random/random.iml" filepath="$PROJECT_DIR$/random/random.iml" />
       <module fileurl="file://$PROJECT_DIR$/scope-variable/scope-variable.iml" filepath="$PROJECT_DIR$/scope-variable/scope-variable.iml" />
