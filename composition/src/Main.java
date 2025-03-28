@@ -20,5 +20,7 @@ public class Main {
         car.displayCar(); // Model: Toyota, Year: 2021, Engine: Engine@1b6d3586 (memory address)
         // Need to override the toString() method in the Engine class to display the engine type
 
+        // Start the car
+        car.start(); // You start the V6 engine. You start the Toyota.
     }
 }

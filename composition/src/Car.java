@@ -18,4 +18,9 @@ public class Car {
         System.out.println("Year: " + year);
         System.out.println("Engine: " + engine); // Calls the toString() method in the Engine class
     }
+
+    void start() {
+        this.engine.start(); // Calls the start() method in the Engine class
+        System.out.println("You start the " + model + ".");
+    }
 }

@@ -13,4 +13,8 @@ public class Engine {
     public String toString() {
         return type;
     }
+
+    void start() {
+        System.out.println("You start the " + type + " engine.");
+    }
 }
