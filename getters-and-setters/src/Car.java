@@ -7,7 +7,7 @@ public class Car {
 //    double price;
 
     // Variables after encapsulation
-    private final String model; // final = can't be changed
+    private final String model; // final = can't be changed extra protection
     private String color;
     private int year;
     private double price;
@@ -34,6 +34,9 @@ public class Car {
     }
 
     public String getPrice() {
+        if (price < 0.0) {
+            return "Priceless";
+        }
         return "€" + price;
     }
 
