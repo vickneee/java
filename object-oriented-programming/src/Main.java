@@ -17,5 +17,8 @@ public class Main {
 
         car1.start();
         car2.stop();
+        car2.drive();
+        car2.start();
+        car2.drive();
     }
 }

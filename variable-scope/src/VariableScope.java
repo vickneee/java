@@ -1,4 +1,4 @@
-public class ScopeVariable {
+public class VariableScope {
 
     static int y = 3; // CLASS VARIABLE
     static int x = 4; // CLASS VARIABLE NOT USED IN THIS EXAMPLE
