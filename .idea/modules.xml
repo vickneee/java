@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/aggregation/aggregation.iml" filepath="$PROJECT_DIR$/aggregation/aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/arithmetic/arithmetic.iml" filepath="$PROJECT_DIR$/arithmetic/arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-of-objects/array-of-objects.iml" filepath="$PROJECT_DIR$/array-of-objects/array-of-objects.iml" />
@@ -10,11 +10,12 @@
       <module fileurl="file://$PROJECT_DIR$/association/association.iml" filepath="$PROJECT_DIR$/association/association.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
-      <module fileurl="file://$PROJECT_DIR$/for-loop/for-loop.iml" filepath="$PROJECT_DIR$/for-loop/for-loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-while-loop/do-while-loop.iml" filepath="$PROJECT_DIR$/do-while-loop/do-while-loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for-loops/for-loops.iml" filepath="$PROJECT_DIR$/for-loops/for-loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/getters-and-setters/getters-and-setters.iml" filepath="$PROJECT_DIR$/getters-and-setters/getters-and-setters.iml" />
       <module fileurl="file://$PROJECT_DIR$/if-statements/if-statements.iml" filepath="$PROJECT_DIR$/if-statements/if-statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
-      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/intro/intro.iml" filepath="$PROJECT_DIR$/intro/intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/logical-operators/logical-operators.iml" filepath="$PROJECT_DIR$/logical-operators/logical-operators.iml" />
@@ -33,13 +34,12 @@
       <module fileurl="file://$PROJECT_DIR$/switch/switch.iml" filepath="$PROJECT_DIR$/switch/switch.iml" />
       <module fileurl="file://$PROJECT_DIR$/switch-enhanced/switch-enhanced.iml" filepath="$PROJECT_DIR$/switch-enhanced/switch-enhanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/ternary-operator/ternary-operator.iml" filepath="$PROJECT_DIR$/ternary-operator/ternary-operator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/toStringMethod/toStringMethod.iml" filepath="$PROJECT_DIR$/toStringMethod/toStringMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tostring-method/tostring-method.iml" filepath="$PROJECT_DIR$/tostring-method/tostring-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-input/user-input.iml" filepath="$PROJECT_DIR$/user-input/user-input.iml" />
       <module fileurl="file://$PROJECT_DIR$/varargs/varargs.iml" filepath="$PROJECT_DIR$/varargs/varargs.iml" />
       <module fileurl="file://$PROJECT_DIR$/variable-scope/variable-scope.iml" filepath="$PROJECT_DIR$/variable-scope/variable-scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
-      <module fileurl="file://$PROJECT_DIR$/while-loop/while-loop.iml" filepath="$PROJECT_DIR$/while-loop/while-loop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/while-loop-do-while/while-loop-do-while.iml" filepath="$PROJECT_DIR$/while-loop-do-while/while-loop-do-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while-loops/while-loops.iml" filepath="$PROJECT_DIR$/while-loops/while-loops.iml" />
     </modules>
   </component>
 </project>
