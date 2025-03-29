@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public enum Day {
 
     // Enum constants representing the days of the week
@@ -7,7 +9,8 @@ public enum Day {
     THURSDAY("Thursday"),
     FRIDAY("Friday"),
     SATURDAY("Saturday"),
-    SUNDAY("Sunday");
+    SUNDAY("Sunday"),
+    PIZZADAY("PizzaDay");
 
     // Enum constants representing the days of the week
     private final String dayName; // String representation of the day
@@ -31,21 +34,38 @@ public enum Day {
     // Main method to demonstrate the usage of the enum
     public static void main(String[] args) {
 
-//        // Print the name of the enum class
-//        Day day = Day.MONDAY; // Create an instance of the enum
-//        System.out.println("Selected day: " + Day.MONDAY); // Print the selected day
+        Scanner scanner = new Scanner(System.in);
 
-        // Example of using the enum use inline
-        System.out.println("Selected day: " + Day.MONDAY); // Print the selected day
+        // Example of using the enum with a switch statement
+        System.out.print("Enter a day of the week (e.g., Monday): ");
+        String input = scanner.nextLine().toUpperCase();
 
-        // Print all days of the week with their string values
-        for (Day dayX : Day.values()) {
-            System.out.println(dayX);
+        try {
+            Day day = Day.valueOf(input);
+
+            switch (day) {
+                case MONDAY,
+                     TUESDAY,
+                     WEDNESDAY,
+                     THURSDAY,
+                     FRIDAY
+                    -> System.out.println("It's a weekday!");
+                case SATURDAY,
+                     SUNDAY,
+                     PIZZADAY
+                    -> System.out.println("It's a weekend!");
+            }
+        }
+        catch (IllegalArgumentException e) {
+            System.out.println("Invalid day entered.");
         }
 
-        // Print the string representation of specific days
-        System.out.println("Day name for MONDAY: " + Day.MONDAY.getDayName());
-        System.out.println("Day name for TUESDAY: " + Day.TUESDAY.getDayName());
-        System.out.println("Day name for WEDNESDAY: " + Day.WEDNESDAY.getDayName());
+        // Example of using the overridden toString method
+        // System.out.println("Selected day: " + Day.MONDAY); // Print the selected day
+
+        // Print all days of the week with their string values
+        // for (Day dayX : Day.values()) {
+        //     System.out.println(dayX);
+        // }
     }
 }
