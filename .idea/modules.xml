@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/equals-method/equals-method.iml" filepath="$PROJECT_DIR$/equals-method/equals-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception-handling/exception-handling.iml" filepath="$PROJECT_DIR$/exception-handling/exception-handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/for-loops/for-loops.iml" filepath="$PROJECT_DIR$/for-loops/for-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/getters-and-setters/getters-and-setters.iml" filepath="$PROJECT_DIR$/getters-and-setters/getters-and-setters.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/hashmap/hashmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/if-statements/if-statements.iml" filepath="$PROJECT_DIR$/if-statements/if-statements.iml" />
