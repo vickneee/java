@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/do-while-loop/do-while-loop.iml" filepath="$PROJECT_DIR$/do-while-loop/do-while-loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/for-loops/for-loops.iml" filepath="$PROJECT_DIR$/for-loops/for-loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/getters-and-setters/getters-and-setters.iml" filepath="$PROJECT_DIR$/getters-and-setters/getters-and-setters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/hashmap/hashmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/if-statements/if-statements.iml" filepath="$PROJECT_DIR$/if-statements/if-statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
@@ -38,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/switch-enhanced/switch-enhanced.iml" filepath="$PROJECT_DIR$/switch-enhanced/switch-enhanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/ternary-operator/ternary-operator.iml" filepath="$PROJECT_DIR$/ternary-operator/ternary-operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/tostring-method/tostring-method.iml" filepath="$PROJECT_DIR$/tostring-method/tostring-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree-set/tree-set.iml" filepath="$PROJECT_DIR$/tree-set/tree-set.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-input/user-input.iml" filepath="$PROJECT_DIR$/user-input/user-input.iml" />
       <module fileurl="file://$PROJECT_DIR$/varargs/varargs.iml" filepath="$PROJECT_DIR$/varargs/varargs.iml" />
       <module fileurl="file://$PROJECT_DIR$/variable-scope/variable-scope.iml" filepath="$PROJECT_DIR$/variable-scope/variable-scope.iml" />
