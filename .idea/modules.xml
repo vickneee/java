@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/do-while-loop/do-while-loop.iml" filepath="$PROJECT_DIR$/do-while-loop/do-while-loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/equals-method/equals-method.iml" filepath="$PROJECT_DIR$/equals-method/equals-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception-handling/exception-handling.iml" filepath="$PROJECT_DIR$/exception-handling/exception-handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/for-loops/for-loops.iml" filepath="$PROJECT_DIR$/for-loops/for-loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/getters-and-setters/getters-and-setters.iml" filepath="$PROJECT_DIR$/getters-and-setters/getters-and-setters.iml" />
       <module fileurl="file://$PROJECT_DIR$/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/hashmap/hashmap.iml" />
