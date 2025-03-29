@@ -6,10 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/aggregation/aggregation.iml" filepath="$PROJECT_DIR$/aggregation/aggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/arithmetic/arithmetic.iml" filepath="$PROJECT_DIR$/arithmetic/arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-of-objects/array-of-objects.iml" filepath="$PROJECT_DIR$/array-of-objects/array-of-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/association/association.iml" filepath="$PROJECT_DIR$/association/association.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/composition/composition.iml" filepath="$PROJECT_DIR$/composition/composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constants/constants.iml" filepath="$PROJECT_DIR$/constants/constants.iml" />
       <module fileurl="file://$PROJECT_DIR$/constructors/constructors.iml" filepath="$PROJECT_DIR$/constructors/constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/do-while-loop/do-while-loop.iml" filepath="$PROJECT_DIR$/do-while-loop/do-while-loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/for-loops/for-loops.iml" filepath="$PROJECT_DIR$/for-loops/for-loops.iml" />
