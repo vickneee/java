@@ -31,9 +31,16 @@ public enum Day {
     // Main method to demonstrate the usage of the enum
     public static void main(String[] args) {
 
+//        // Print the name of the enum class
+//        Day day = Day.MONDAY; // Create an instance of the enum
+//        System.out.println("Selected day: " + Day.MONDAY); // Print the selected day
+
+        // Example of using the enum use inline
+        System.out.println("Selected day: " + Day.MONDAY); // Print the selected day
+
         // Print all days of the week with their string values
-        for (Day day : Day.values()) {
-            System.out.println(day);
+        for (Day dayX : Day.values()) {
+            System.out.println(dayX);
         }
 
         // Print the string representation of specific days
